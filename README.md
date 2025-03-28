@@ -98,7 +98,7 @@ _Add screenshots here to showcase the portfolio layout and features._
 
 Feel free to connect with me:
 
-- **Email:** [monish.jodha@example.com](mailto:monish.jodha@example.com)
+- **Email:** [measmonishjodha@gmail.com](mailto:monish.jodha@example.com)
 - **LinkedIn:** [linkedin.com/in/monish-jodha](https://linkedin.com/in/monish-jodha)
 - **GitHub:** [github.com/monish-jodha](https://github.com/monish-jodha)
 - **Twitter:** [twitter.com/monish_jodha](https://twitter.com/monish_jodha)
