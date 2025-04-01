@@ -95,7 +95,7 @@ Feel free to connect with me:
 
 - **Email:** [measmonishjodha@gmail.com](mailto:monish.jodha@example.com)
 - **LinkedIn:** [linkedin.com/in/monish-jodha](https://linkedin.com/in/monish-jodha)
-- **GitHub:** [github.com/monish-jodha](https://github.com/monish-jodha)
+- **GitHub:** [github.com/monish-jodha](https://github.com/MONISH-JODHA)
 - **Twitter:** [twitter.com/monish_jodha](https://twitter.com/monish_jodha)
 
 ---
