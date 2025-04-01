@@ -88,11 +88,6 @@ The portfolio contains several sections:
 
 ---
 
-## Screenshots
-
-_Add screenshots here to showcase the portfolio layout and features._
-
----
 
 ## Contact
 
